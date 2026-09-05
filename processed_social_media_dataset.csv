@@ -1,0 +1,501 @@
+post_id,text,timestamp,hashtags,likes,shares,comments,sentiment,topic,clean_text,engagement
+1,People are discussing climate change,2026-04-04 21:00:00,#Environment #ClimateChange,2011,457,142,Positive,Environment,people discussing climate change,2610
+2,People are discussing climate change,2026-07-06 03:00:00,#Environment #ClimateChange,717,1209,432,Negative,Environment,people discussing climate change,2358
+3,AI is transforming the way we learn and work,2026-03-21 09:00:00,#AI #ArtificialIntelligence,4144,1232,27,Positive,Artificial Intelligence,ai transforming way learn work,5403
+4,This new movie is trending everywhere,2026-08-28 09:00:00,#Entertainment #Movies,4469,859,225,Negative,Entertainment,new movie trending everywhere,5553
+5,That was an incredible performance,2026-01-03 05:00:00,#Sports #Trending,1312,1429,432,Positive,Sports,incredible performance,3173
+6,The latest tech trends are everywhere,2026-04-25 21:00:00,#Technology #Tech,842,189,389,Positive,Technology,latest tech trends everywhere,1420
+7,The future of AI looks exciting,2026-07-26 01:00:00,#AI #ArtificialIntelligence,2171,88,747,Neutral,Artificial Intelligence,future ai looks exciting,3006
+8,That was an incredible performance,2026-05-10 04:00:00,#Sports #Trending,650,1130,300,Positive,Sports,incredible performance,2080
+9,Protecting the environment is everyone's responsibility,2026-05-04 10:00:00,#Environment #ClimateChange,4734,393,721,Neutral,Environment,protecting environment everyones responsibility,5848
+10,AI is transforming the way we learn and work,2026-04-09 18:00:00,#AI #ArtificialIntelligence,658,476,103,Negative,Artificial Intelligence,ai transforming way learn work,1237
+11,Fans are loving this season,2026-05-05 12:00:00,#Sports #Trending,1337,758,363,Positive,Sports,fans loving season,2458
+12,Digital classrooms are becoming popular,2026-08-22 07:00:00,#Education #EdTech,589,1247,650,Positive,Education,digital classrooms becoming popular,2486
+13,Digital classrooms are becoming popular,2026-02-25 18:00:00,#Education #EdTech,3791,777,276,Negative,Education,digital classrooms becoming popular,4844
+14,Protecting the environment is everyone's responsibility,2026-08-22 16:00:00,#Environment #ClimateChange,2661,114,234,Negative,Environment,protecting environment everyones responsibility,3009
+15,The future of AI looks exciting,2026-01-23 14:00:00,#AI #ArtificialIntelligence,1733,1161,735,Positive,Artificial Intelligence,future ai looks exciting,3629
+16,New technology is changing our daily lives,2026-05-16 01:00:00,#Technology #Tech,3763,292,271,Negative,Technology,new technology changing daily lives,4326
+17,Online learning is making education more accessible,2026-07-03 23:00:00,#Education #EdTech,2157,1197,438,Negative,Education,online learning making education more accessible,3792
+18,The latest series has everyone talking,2026-02-17 05:00:00,#Entertainment #Movies,4179,1010,93,Positive,Entertainment,latest series everyone talking,5282
+19,AI is transforming the way we learn and work,2026-02-24 14:00:00,#AI #ArtificialIntelligence,3463,1221,65,Positive,Artificial Intelligence,ai transforming way learn work,4749
+20,Fans are loving this season,2026-06-09 18:00:00,#Sports #Trending,4339,514,566,Negative,Sports,fans loving season,5419
+21,Everyone is talking about generative AI,2026-08-21 16:00:00,#AI #ArtificialIntelligence,4403,546,787,Negative,Artificial Intelligence,everyone talking about generative ai,5736
+22,Sustainable living is becoming a major trend,2026-05-29 09:00:00,#Environment #ClimateChange,1300,929,3,Positive,Environment,sustainable living becoming major trend,2232
+23,Protecting the environment is everyone's responsibility,2026-06-20 20:00:00,#Environment #ClimateChange,1468,1039,108,Positive,Environment,protecting environment everyones responsibility,2615
+24,Sustainable living is becoming a major trend,2026-06-23 06:00:00,#Environment #ClimateChange,4993,407,156,Neutral,Environment,sustainable living becoming major trend,5556
+25,New technology is changing our daily lives,2026-07-01 00:00:00,#Technology #Tech,9,1226,331,Positive,Technology,new technology changing daily lives,1566
+26,What an exciting match today,2026-05-04 21:00:00,#Sports #Trending,2524,490,59,Positive,Sports,what exciting match today,3073
+27,Digital classrooms are becoming popular,2026-01-30 05:00:00,#Education #EdTech,3986,141,778,Neutral,Education,digital classrooms becoming popular,4905
+28,This new movie is trending everywhere,2026-06-12 05:00:00,#Entertainment #Movies,4508,338,271,Positive,Entertainment,new movie trending everywhere,5117
+29,What a fantastic entertainment release,2026-03-14 07:00:00,#Entertainment #Movies,4422,1494,706,Positive,Entertainment,what fantastic entertainment release,6622
+30,Digital classrooms are becoming popular,2026-08-18 06:00:00,#Education #EdTech,3064,897,529,Positive,Education,digital classrooms becoming popular,4490
+31,What an exciting match today,2026-01-22 20:00:00,#Sports #Trending,2774,43,602,Positive,Sports,what exciting match today,3419
+32,This new movie is trending everywhere,2026-01-03 10:00:00,#Entertainment #Movies,586,1449,646,Negative,Entertainment,new movie trending everywhere,2681
+33,AI is transforming the way we learn and work,2026-01-11 17:00:00,#AI #ArtificialIntelligence,2711,145,526,Positive,Artificial Intelligence,ai transforming way learn work,3382
+34,Students are using technology for better learning,2026-03-15 03:00:00,#Education #EdTech,4422,270,740,Negative,Education,students using technology better learning,5432
+35,What a fantastic entertainment release,2026-06-11 10:00:00,#Entertainment #Movies,3339,389,96,Positive,Entertainment,what fantastic entertainment release,3824
+36,Everyone is talking about generative AI,2026-05-25 13:00:00,#AI #ArtificialIntelligence,3372,956,746,Positive,Artificial Intelligence,everyone talking about generative ai,5074
+37,Everyone is talking about generative AI,2026-08-09 13:00:00,#AI #ArtificialIntelligence,811,124,412,Negative,Artificial Intelligence,everyone talking about generative ai,1347
+38,Sustainable living is becoming a major trend,2026-02-07 07:00:00,#Environment #ClimateChange,2041,392,194,Neutral,Environment,sustainable living becoming major trend,2627
+39,The latest series has everyone talking,2026-03-04 15:00:00,#Entertainment #Movies,2286,947,255,Positive,Entertainment,latest series everyone talking,3488
+40,The future of AI looks exciting,2026-07-07 20:00:00,#AI #ArtificialIntelligence,807,103,667,Neutral,Artificial Intelligence,future ai looks exciting,1577
+41,This new movie is trending everywhere,2026-03-22 16:00:00,#Entertainment #Movies,1367,832,497,Neutral,Entertainment,new movie trending everywhere,2696
+42,What an exciting match today,2026-01-21 00:00:00,#Sports #Trending,1353,776,2,Neutral,Sports,what exciting match today,2131
+43,Fans are loving this season,2026-06-05 07:00:00,#Sports #Trending,2341,866,713,Neutral,Sports,fans loving season,3920
+44,Protecting the environment is everyone's responsibility,2026-06-16 02:00:00,#Environment #ClimateChange,1273,388,303,Negative,Environment,protecting environment everyones responsibility,1964
+45,Online learning is making education more accessible,2026-07-05 01:00:00,#Education #EdTech,504,642,58,Negative,Education,online learning making education more accessible,1204
+46,Everyone is talking about generative AI,2026-07-01 06:00:00,#AI #ArtificialIntelligence,1294,116,520,Positive,Artificial Intelligence,everyone talking about generative ai,1930
+47,AI is transforming the way we learn and work,2026-01-24 04:00:00,#AI #ArtificialIntelligence,1931,826,122,Positive,Artificial Intelligence,ai transforming way learn work,2879
+48,This new movie is trending everywhere,2026-01-14 13:00:00,#Entertainment #Movies,676,858,673,Negative,Entertainment,new movie trending everywhere,2207
+49,What a fantastic entertainment release,2026-03-31 00:00:00,#Entertainment #Movies,1678,1371,733,Positive,Entertainment,what fantastic entertainment release,3782
+50,New technology is changing our daily lives,2026-02-14 16:00:00,#Technology #Tech,2462,936,323,Positive,Technology,new technology changing daily lives,3721
+51,AI is transforming the way we learn and work,2026-07-12 04:00:00,#AI #ArtificialIntelligence,824,150,550,Positive,Artificial Intelligence,ai transforming way learn work,1524
+52,Digital classrooms are becoming popular,2026-04-30 03:00:00,#Education #EdTech,568,500,378,Positive,Education,digital classrooms becoming popular,1446
+53,New technology is changing our daily lives,2026-07-05 10:00:00,#Technology #Tech,2483,1252,669,Positive,Technology,new technology changing daily lives,4404
+54,This new movie is trending everywhere,2026-07-09 07:00:00,#Entertainment #Movies,2457,1358,106,Negative,Entertainment,new movie trending everywhere,3921
+55,Students are using technology for better learning,2026-02-06 12:00:00,#Education #EdTech,4537,318,278,Positive,Education,students using technology better learning,5133
+56,Smart devices are getting more powerful,2026-04-28 00:00:00,#Technology #Tech,1672,1407,649,Positive,Technology,smart devices getting more powerful,3728
+57,Smart devices are getting more powerful,2026-01-18 08:00:00,#Technology #Tech,761,1299,433,Positive,Technology,smart devices getting more powerful,2493
+58,New technology is changing our daily lives,2026-02-14 15:00:00,#Technology #Tech,2150,330,759,Positive,Technology,new technology changing daily lives,3239
+59,That was an incredible performance,2026-07-11 10:00:00,#Sports #Trending,84,229,77,Negative,Sports,incredible performance,390
+60,People are discussing climate change,2026-05-07 00:00:00,#Environment #ClimateChange,4776,1131,151,Positive,Environment,people discussing climate change,6058
+61,What an exciting match today,2026-05-05 11:00:00,#Sports #Trending,331,732,215,Positive,Sports,what exciting match today,1278
+62,People are discussing climate change,2026-05-01 17:00:00,#Environment #ClimateChange,4591,832,635,Negative,Environment,people discussing climate change,6058
+63,People are discussing climate change,2026-03-22 19:00:00,#Environment #ClimateChange,1336,362,422,Neutral,Environment,people discussing climate change,2120
+64,AI is transforming the way we learn and work,2026-04-24 09:00:00,#AI #ArtificialIntelligence,3377,1371,752,Negative,Artificial Intelligence,ai transforming way learn work,5500
+65,Students are using technology for better learning,2026-08-28 08:00:00,#Education #EdTech,890,783,39,Positive,Education,students using technology better learning,1712
+66,What an exciting match today,2026-06-07 02:00:00,#Sports #Trending,2869,625,233,Positive,Sports,what exciting match today,3727
+67,Online learning is making education more accessible,2026-05-17 00:00:00,#Education #EdTech,2694,570,71,Negative,Education,online learning making education more accessible,3335
+68,The latest tech trends are everywhere,2026-05-17 10:00:00,#Technology #Tech,4397,678,28,Negative,Technology,latest tech trends everywhere,5103
+69,The future of AI looks exciting,2026-04-01 14:00:00,#AI #ArtificialIntelligence,318,222,610,Positive,Artificial Intelligence,future ai looks exciting,1150
+70,Fans are loving this season,2026-04-18 01:00:00,#Sports #Trending,3579,1241,523,Negative,Sports,fans loving season,5343
+71,The future of AI looks exciting,2026-03-06 21:00:00,#AI #ArtificialIntelligence,2091,90,725,Neutral,Artificial Intelligence,future ai looks exciting,2906
+72,What an exciting match today,2026-07-03 18:00:00,#Sports #Trending,1619,745,441,Positive,Sports,what exciting match today,2805
+73,Everyone is talking about generative AI,2026-08-01 16:00:00,#AI #ArtificialIntelligence,2576,1358,127,Neutral,Artificial Intelligence,everyone talking about generative ai,4061
+74,Sustainable living is becoming a major trend,2026-08-16 15:00:00,#Environment #ClimateChange,3350,668,412,Positive,Environment,sustainable living becoming major trend,4430
+75,Sustainable living is becoming a major trend,2026-03-07 11:00:00,#Environment #ClimateChange,3449,1361,388,Negative,Environment,sustainable living becoming major trend,5198
+76,Protecting the environment is everyone's responsibility,2026-07-30 02:00:00,#Environment #ClimateChange,4667,616,415,Neutral,Environment,protecting environment everyones responsibility,5698
+77,This new movie is trending everywhere,2026-03-13 17:00:00,#Entertainment #Movies,3526,1187,621,Positive,Entertainment,new movie trending everywhere,5334
+78,Sustainable living is becoming a major trend,2026-05-31 22:00:00,#Environment #ClimateChange,1755,1046,484,Positive,Environment,sustainable living becoming major trend,3285
+79,People are discussing climate change,2026-04-07 20:00:00,#Environment #ClimateChange,4227,1359,648,Negative,Environment,people discussing climate change,6234
+80,The latest series has everyone talking,2026-03-22 04:00:00,#Entertainment #Movies,2547,460,203,Positive,Entertainment,latest series everyone talking,3210
+81,Online learning is making education more accessible,2026-06-12 04:00:00,#Education #EdTech,601,932,424,Positive,Education,online learning making education more accessible,1957
+82,Protecting the environment is everyone's responsibility,2026-08-26 16:00:00,#Environment #ClimateChange,3150,1012,409,Positive,Environment,protecting environment everyones responsibility,4571
+83,Online learning is making education more accessible,2026-01-02 21:00:00,#Education #EdTech,878,870,224,Negative,Education,online learning making education more accessible,1972
+84,Digital classrooms are becoming popular,2026-01-18 03:00:00,#Education #EdTech,4571,510,124,Positive,Education,digital classrooms becoming popular,5205
+85,What an exciting match today,2026-08-16 20:00:00,#Sports #Trending,4356,1144,609,Neutral,Sports,what exciting match today,6109
+86,The latest tech trends are everywhere,2026-06-22 07:00:00,#Technology #Tech,3500,1122,456,Negative,Technology,latest tech trends everywhere,5078
+87,Digital classrooms are becoming popular,2026-06-03 14:00:00,#Education #EdTech,2128,506,652,Neutral,Education,digital classrooms becoming popular,3286
+88,Smart devices are getting more powerful,2026-03-23 15:00:00,#Technology #Tech,2254,900,79,Positive,Technology,smart devices getting more powerful,3233
+89,Sustainable living is becoming a major trend,2026-04-25 15:00:00,#Environment #ClimateChange,2624,1106,82,Positive,Environment,sustainable living becoming major trend,3812
+90,Online learning is making education more accessible,2026-08-25 20:00:00,#Education #EdTech,1256,1446,219,Positive,Education,online learning making education more accessible,2921
+91,The future of AI looks exciting,2026-07-05 05:00:00,#AI #ArtificialIntelligence,3821,851,63,Positive,Artificial Intelligence,future ai looks exciting,4735
+92,Students are using technology for better learning,2026-07-19 08:00:00,#Education #EdTech,165,1179,389,Positive,Education,students using technology better learning,1733
+93,What an exciting match today,2026-04-12 22:00:00,#Sports #Trending,3199,858,551,Neutral,Sports,what exciting match today,4608
+94,Protecting the environment is everyone's responsibility,2026-07-25 21:00:00,#Environment #ClimateChange,1811,999,224,Positive,Environment,protecting environment everyones responsibility,3034
+95,The latest tech trends are everywhere,2026-05-13 17:00:00,#Technology #Tech,2758,1369,695,Positive,Technology,latest tech trends everywhere,4822
+96,That was an incredible performance,2026-06-09 12:00:00,#Sports #Trending,1050,1274,546,Positive,Sports,incredible performance,2870
+97,The future of AI looks exciting,2026-08-15 07:00:00,#AI #ArtificialIntelligence,227,171,658,Negative,Artificial Intelligence,future ai looks exciting,1056
+98,What an exciting match today,2026-03-04 00:00:00,#Sports #Trending,416,532,388,Neutral,Sports,what exciting match today,1336
+99,New technology is changing our daily lives,2026-04-26 04:00:00,#Technology #Tech,3110,569,770,Positive,Technology,new technology changing daily lives,4449
+100,Fans are loving this season,2026-06-10 12:00:00,#Sports #Trending,163,1104,53,Neutral,Sports,fans loving season,1320
+101,New technology is changing our daily lives,2026-08-11 11:00:00,#Technology #Tech,334,63,253,Negative,Technology,new technology changing daily lives,650
+102,Online learning is making education more accessible,2026-03-23 10:00:00,#Education #EdTech,1039,969,685,Negative,Education,online learning making education more accessible,2693
+103,Everyone is talking about generative AI,2026-06-08 17:00:00,#AI #ArtificialIntelligence,2104,755,171,Neutral,Artificial Intelligence,everyone talking about generative ai,3030
+104,What a fantastic entertainment release,2026-02-09 02:00:00,#Entertainment #Movies,1346,637,110,Neutral,Entertainment,what fantastic entertainment release,2093
+105,This new movie is trending everywhere,2026-07-16 12:00:00,#Entertainment #Movies,3079,812,732,Neutral,Entertainment,new movie trending everywhere,4623
+106,Online learning is making education more accessible,2026-08-03 02:00:00,#Education #EdTech,1994,208,713,Negative,Education,online learning making education more accessible,2915
+107,Smart devices are getting more powerful,2026-02-11 07:00:00,#Technology #Tech,4641,84,355,Negative,Technology,smart devices getting more powerful,5080
+108,The latest series has everyone talking,2026-01-24 12:00:00,#Entertainment #Movies,4149,1326,349,Negative,Entertainment,latest series everyone talking,5824
+109,The future of AI looks exciting,2026-02-06 00:00:00,#AI #ArtificialIntelligence,3556,741,650,Neutral,Artificial Intelligence,future ai looks exciting,4947
+110,That was an incredible performance,2026-03-02 02:00:00,#Sports #Trending,4279,1332,276,Positive,Sports,incredible performance,5887
+111,What a fantastic entertainment release,2026-06-08 16:00:00,#Entertainment #Movies,3573,1497,606,Neutral,Entertainment,what fantastic entertainment release,5676
+112,The latest tech trends are everywhere,2026-01-30 13:00:00,#Technology #Tech,2289,923,249,Neutral,Technology,latest tech trends everywhere,3461
+113,That was an incredible performance,2026-05-10 08:00:00,#Sports #Trending,2760,58,506,Negative,Sports,incredible performance,3324
+114,New technology is changing our daily lives,2026-05-02 02:00:00,#Technology #Tech,2121,697,286,Positive,Technology,new technology changing daily lives,3104
+115,What a fantastic entertainment release,2026-07-09 17:00:00,#Entertainment #Movies,88,1058,195,Neutral,Entertainment,what fantastic entertainment release,1341
+116,AI is transforming the way we learn and work,2026-06-16 18:00:00,#AI #ArtificialIntelligence,4553,492,707,Negative,Artificial Intelligence,ai transforming way learn work,5752
+117,That was an incredible performance,2026-06-02 23:00:00,#Sports #Trending,146,190,301,Negative,Sports,incredible performance,637
+118,Students are using technology for better learning,2026-04-15 12:00:00,#Education #EdTech,4769,755,484,Negative,Education,students using technology better learning,6008
+119,What a fantastic entertainment release,2026-07-07 20:00:00,#Entertainment #Movies,2714,720,719,Positive,Entertainment,what fantastic entertainment release,4153
+120,Fans are loving this season,2026-03-20 16:00:00,#Sports #Trending,993,1477,197,Positive,Sports,fans loving season,2667
+121,New technology is changing our daily lives,2026-08-24 13:00:00,#Technology #Tech,1521,392,221,Negative,Technology,new technology changing daily lives,2134
+122,Sustainable living is becoming a major trend,2026-07-21 05:00:00,#Environment #ClimateChange,4302,1222,289,Positive,Environment,sustainable living becoming major trend,5813
+123,AI is transforming the way we learn and work,2026-05-04 04:00:00,#AI #ArtificialIntelligence,1474,619,14,Positive,Artificial Intelligence,ai transforming way learn work,2107
+124,Protecting the environment is everyone's responsibility,2026-01-16 12:00:00,#Environment #ClimateChange,451,1133,299,Positive,Environment,protecting environment everyones responsibility,1883
+125,People are discussing climate change,2026-06-17 13:00:00,#Environment #ClimateChange,845,25,587,Negative,Environment,people discussing climate change,1457
+126,The latest tech trends are everywhere,2026-04-27 07:00:00,#Technology #Tech,1515,105,258,Positive,Technology,latest tech trends everywhere,1878
+127,What an exciting match today,2026-05-17 18:00:00,#Sports #Trending,4033,151,590,Neutral,Sports,what exciting match today,4774
+128,Protecting the environment is everyone's responsibility,2026-02-20 22:00:00,#Environment #ClimateChange,4615,622,87,Positive,Environment,protecting environment everyones responsibility,5324
+129,Online learning is making education more accessible,2026-05-23 01:00:00,#Education #EdTech,4971,1220,633,Negative,Education,online learning making education more accessible,6824
+130,Digital classrooms are becoming popular,2026-06-01 02:00:00,#Education #EdTech,2440,1205,439,Positive,Education,digital classrooms becoming popular,4084
+131,Smart devices are getting more powerful,2026-07-28 02:00:00,#Technology #Tech,817,425,640,Negative,Technology,smart devices getting more powerful,1882
+132,Students are using technology for better learning,2026-02-23 14:00:00,#Education #EdTech,1969,355,565,Negative,Education,students using technology better learning,2889
+133,AI is transforming the way we learn and work,2026-06-03 18:00:00,#AI #ArtificialIntelligence,4869,962,298,Positive,Artificial Intelligence,ai transforming way learn work,6129
+134,AI is transforming the way we learn and work,2026-04-07 12:00:00,#AI #ArtificialIntelligence,3724,145,703,Positive,Artificial Intelligence,ai transforming way learn work,4572
+135,Students are using technology for better learning,2026-08-02 08:00:00,#Education #EdTech,4836,1354,202,Neutral,Education,students using technology better learning,6392
+136,What an exciting match today,2026-08-10 01:00:00,#Sports #Trending,1225,544,145,Positive,Sports,what exciting match today,1914
+137,AI is transforming the way we learn and work,2026-04-15 23:00:00,#AI #ArtificialIntelligence,4879,1165,295,Positive,Artificial Intelligence,ai transforming way learn work,6339
+138,What an exciting match today,2026-04-14 19:00:00,#Sports #Trending,3302,557,512,Positive,Sports,what exciting match today,4371
+139,The latest series has everyone talking,2026-07-24 03:00:00,#Entertainment #Movies,331,884,752,Positive,Entertainment,latest series everyone talking,1967
+140,Smart devices are getting more powerful,2026-02-01 04:00:00,#Technology #Tech,1880,1380,589,Positive,Technology,smart devices getting more powerful,3849
+141,This new movie is trending everywhere,2026-08-18 11:00:00,#Entertainment #Movies,2212,1180,41,Neutral,Entertainment,new movie trending everywhere,3433
+142,Students are using technology for better learning,2026-05-31 22:00:00,#Education #EdTech,2283,371,599,Positive,Education,students using technology better learning,3253
+143,That was an incredible performance,2026-02-01 03:00:00,#Sports #Trending,3855,712,418,Neutral,Sports,incredible performance,4985
+144,The latest tech trends are everywhere,2026-02-24 21:00:00,#Technology #Tech,2706,843,710,Negative,Technology,latest tech trends everywhere,4259
+145,Fans are loving this season,2026-05-17 16:00:00,#Sports #Trending,4511,75,465,Negative,Sports,fans loving season,5051
+146,The future of AI looks exciting,2026-02-09 13:00:00,#AI #ArtificialIntelligence,3316,1053,1,Positive,Artificial Intelligence,future ai looks exciting,4370
+147,Protecting the environment is everyone's responsibility,2026-01-19 12:00:00,#Environment #ClimateChange,1541,1061,370,Positive,Environment,protecting environment everyones responsibility,2972
+148,The latest series has everyone talking,2026-01-18 14:00:00,#Entertainment #Movies,1672,546,562,Negative,Entertainment,latest series everyone talking,2780
+149,Students are using technology for better learning,2026-08-27 08:00:00,#Education #EdTech,3975,248,29,Positive,Education,students using technology better learning,4252
+150,Protecting the environment is everyone's responsibility,2026-02-24 01:00:00,#Environment #ClimateChange,2550,1128,14,Neutral,Environment,protecting environment everyones responsibility,3692
+151,The latest series has everyone talking,2026-02-08 17:00:00,#Entertainment #Movies,3785,240,663,Positive,Entertainment,latest series everyone talking,4688
+152,Students are using technology for better learning,2026-04-10 14:00:00,#Education #EdTech,4173,1444,279,Neutral,Education,students using technology better learning,5896
+153,Fans are loving this season,2026-03-25 04:00:00,#Sports #Trending,3746,1128,148,Neutral,Sports,fans loving season,5022
+154,What an exciting match today,2026-06-23 11:00:00,#Sports #Trending,1123,142,282,Neutral,Sports,what exciting match today,1547
+155,Fans are loving this season,2026-06-23 07:00:00,#Sports #Trending,2193,5,289,Neutral,Sports,fans loving season,2487
+156,Sustainable living is becoming a major trend,2026-07-17 22:00:00,#Environment #ClimateChange,4016,304,457,Neutral,Environment,sustainable living becoming major trend,4777
+157,The latest series has everyone talking,2026-07-08 09:00:00,#Entertainment #Movies,4456,772,466,Positive,Entertainment,latest series everyone talking,5694
+158,New technology is changing our daily lives,2026-03-23 12:00:00,#Technology #Tech,4689,784,239,Neutral,Technology,new technology changing daily lives,5712
+159,What an exciting match today,2026-06-11 10:00:00,#Sports #Trending,3128,790,679,Positive,Sports,what exciting match today,4597
+160,People are discussing climate change,2026-01-13 15:00:00,#Environment #ClimateChange,1039,1028,604,Positive,Environment,people discussing climate change,2671
+161,New technology is changing our daily lives,2026-05-31 06:00:00,#Technology #Tech,821,1077,467,Neutral,Technology,new technology changing daily lives,2365
+162,Everyone is talking about generative AI,2026-08-12 11:00:00,#AI #ArtificialIntelligence,1269,153,480,Positive,Artificial Intelligence,everyone talking about generative ai,1902
+163,The latest tech trends are everywhere,2026-05-16 16:00:00,#Technology #Tech,662,672,690,Negative,Technology,latest tech trends everywhere,2024
+164,The latest series has everyone talking,2026-08-02 22:00:00,#Entertainment #Movies,4002,1108,36,Neutral,Entertainment,latest series everyone talking,5146
+165,This new movie is trending everywhere,2026-08-22 14:00:00,#Entertainment #Movies,2359,465,764,Positive,Entertainment,new movie trending everywhere,3588
+166,The future of AI looks exciting,2026-08-05 07:00:00,#AI #ArtificialIntelligence,828,908,170,Neutral,Artificial Intelligence,future ai looks exciting,1906
+167,Sustainable living is becoming a major trend,2026-01-16 16:00:00,#Environment #ClimateChange,2662,114,300,Neutral,Environment,sustainable living becoming major trend,3076
+168,The latest tech trends are everywhere,2026-03-25 08:00:00,#Technology #Tech,4356,843,579,Positive,Technology,latest tech trends everywhere,5778
+169,People are discussing climate change,2026-01-27 22:00:00,#Environment #ClimateChange,4997,783,634,Positive,Environment,people discussing climate change,6414
+170,People are discussing climate change,2026-07-19 01:00:00,#Environment #ClimateChange,1177,475,472,Positive,Environment,people discussing climate change,2124
+171,Sustainable living is becoming a major trend,2026-08-16 14:00:00,#Environment #ClimateChange,81,952,294,Positive,Environment,sustainable living becoming major trend,1327
+172,Protecting the environment is everyone's responsibility,2026-05-31 18:00:00,#Environment #ClimateChange,2835,1203,306,Positive,Environment,protecting environment everyones responsibility,4344
+173,Sustainable living is becoming a major trend,2026-06-05 22:00:00,#Environment #ClimateChange,2479,407,393,Negative,Environment,sustainable living becoming major trend,3279
+174,What an exciting match today,2026-07-15 05:00:00,#Sports #Trending,2945,1177,302,Positive,Sports,what exciting match today,4424
+175,Sustainable living is becoming a major trend,2026-08-13 16:00:00,#Environment #ClimateChange,3247,562,8,Positive,Environment,sustainable living becoming major trend,3817
+176,What a fantastic entertainment release,2026-01-17 17:00:00,#Entertainment #Movies,4972,1017,293,Neutral,Entertainment,what fantastic entertainment release,6282
+177,Digital classrooms are becoming popular,2026-03-16 18:00:00,#Education #EdTech,1562,1271,256,Neutral,Education,digital classrooms becoming popular,3089
+178,Protecting the environment is everyone's responsibility,2026-08-21 09:00:00,#Environment #ClimateChange,1125,1286,99,Neutral,Environment,protecting environment everyones responsibility,2510
+179,Protecting the environment is everyone's responsibility,2026-05-31 11:00:00,#Environment #ClimateChange,278,1186,373,Positive,Environment,protecting environment everyones responsibility,1837
+180,People are discussing climate change,2026-04-11 17:00:00,#Environment #ClimateChange,2681,850,179,Positive,Environment,people discussing climate change,3710
+181,Online learning is making education more accessible,2026-05-05 21:00:00,#Education #EdTech,4353,1027,279,Neutral,Education,online learning making education more accessible,5659
+182,Students are using technology for better learning,2026-06-14 11:00:00,#Education #EdTech,2422,693,117,Neutral,Education,students using technology better learning,3232
+183,What an exciting match today,2026-03-19 00:00:00,#Sports #Trending,3260,1141,374,Positive,Sports,what exciting match today,4775
+184,The future of AI looks exciting,2026-07-03 03:00:00,#AI #ArtificialIntelligence,1017,931,377,Positive,Artificial Intelligence,future ai looks exciting,2325
+185,Protecting the environment is everyone's responsibility,2026-07-19 12:00:00,#Environment #ClimateChange,3126,1307,380,Negative,Environment,protecting environment everyones responsibility,4813
+186,Everyone is talking about generative AI,2026-01-09 13:00:00,#AI #ArtificialIntelligence,4604,671,624,Positive,Artificial Intelligence,everyone talking about generative ai,5899
+187,Digital classrooms are becoming popular,2026-06-08 11:00:00,#Education #EdTech,2480,1329,418,Positive,Education,digital classrooms becoming popular,4227
+188,AI is transforming the way we learn and work,2026-01-13 16:00:00,#AI #ArtificialIntelligence,2498,1008,118,Positive,Artificial Intelligence,ai transforming way learn work,3624
+189,AI is transforming the way we learn and work,2026-02-16 07:00:00,#AI #ArtificialIntelligence,3188,929,379,Neutral,Artificial Intelligence,ai transforming way learn work,4496
+190,Protecting the environment is everyone's responsibility,2026-07-04 09:00:00,#Environment #ClimateChange,3438,1202,760,Negative,Environment,protecting environment everyones responsibility,5400
+191,People are discussing climate change,2026-08-12 13:00:00,#Environment #ClimateChange,816,1002,630,Neutral,Environment,people discussing climate change,2448
+192,Fans are loving this season,2026-05-07 11:00:00,#Sports #Trending,1784,908,455,Positive,Sports,fans loving season,3147
+193,Students are using technology for better learning,2026-08-23 01:00:00,#Education #EdTech,3014,1115,660,Positive,Education,students using technology better learning,4789
+194,New technology is changing our daily lives,2026-03-06 18:00:00,#Technology #Tech,1005,931,93,Positive,Technology,new technology changing daily lives,2029
+195,People are discussing climate change,2026-07-23 19:00:00,#Environment #ClimateChange,179,103,341,Negative,Environment,people discussing climate change,623
+196,Online learning is making education more accessible,2026-03-12 01:00:00,#Education #EdTech,567,1135,212,Neutral,Education,online learning making education more accessible,1914
+197,This new movie is trending everywhere,2026-03-21 12:00:00,#Entertainment #Movies,2696,302,610,Neutral,Entertainment,new movie trending everywhere,3608
+198,The future of AI looks exciting,2026-02-19 09:00:00,#AI #ArtificialIntelligence,1069,1106,256,Neutral,Artificial Intelligence,future ai looks exciting,2431
+199,Online learning is making education more accessible,2026-01-09 19:00:00,#Education #EdTech,1084,30,366,Negative,Education,online learning making education more accessible,1480
+200,Digital classrooms are becoming popular,2026-03-01 11:00:00,#Education #EdTech,2178,107,129,Positive,Education,digital classrooms becoming popular,2414
+201,Sustainable living is becoming a major trend,2026-01-22 16:00:00,#Environment #ClimateChange,3906,918,796,Positive,Environment,sustainable living becoming major trend,5620
+202,Smart devices are getting more powerful,2026-06-04 06:00:00,#Technology #Tech,4132,453,629,Negative,Technology,smart devices getting more powerful,5214
+203,Everyone is talking about generative AI,2026-08-13 21:00:00,#AI #ArtificialIntelligence,4276,617,469,Neutral,Artificial Intelligence,everyone talking about generative ai,5362
+204,People are discussing climate change,2026-06-13 11:00:00,#Environment #ClimateChange,3295,873,702,Positive,Environment,people discussing climate change,4870
+205,The future of AI looks exciting,2026-06-01 09:00:00,#AI #ArtificialIntelligence,607,165,329,Negative,Artificial Intelligence,future ai looks exciting,1101
+206,This new movie is trending everywhere,2026-04-04 20:00:00,#Entertainment #Movies,4800,1123,729,Positive,Entertainment,new movie trending everywhere,6652
+207,The latest tech trends are everywhere,2026-07-01 02:00:00,#Technology #Tech,2420,929,517,Neutral,Technology,latest tech trends everywhere,3866
+208,The latest series has everyone talking,2026-08-28 12:00:00,#Entertainment #Movies,942,1340,666,Positive,Entertainment,latest series everyone talking,2948
+209,What a fantastic entertainment release,2026-05-27 19:00:00,#Entertainment #Movies,3704,467,423,Neutral,Entertainment,what fantastic entertainment release,4594
+210,The latest tech trends are everywhere,2026-02-02 10:00:00,#Technology #Tech,2565,874,320,Positive,Technology,latest tech trends everywhere,3759
+211,Sustainable living is becoming a major trend,2026-02-22 02:00:00,#Environment #ClimateChange,3890,137,93,Positive,Environment,sustainable living becoming major trend,4120
+212,AI is transforming the way we learn and work,2026-05-08 04:00:00,#AI #ArtificialIntelligence,1070,1139,61,Positive,Artificial Intelligence,ai transforming way learn work,2270
+213,What a fantastic entertainment release,2026-08-17 16:00:00,#Entertainment #Movies,1006,841,362,Negative,Entertainment,what fantastic entertainment release,2209
+214,Sustainable living is becoming a major trend,2026-01-18 13:00:00,#Environment #ClimateChange,2361,1229,319,Neutral,Environment,sustainable living becoming major trend,3909
+215,New technology is changing our daily lives,2026-03-14 14:00:00,#Technology #Tech,1272,1344,493,Negative,Technology,new technology changing daily lives,3109
+216,Online learning is making education more accessible,2026-07-09 20:00:00,#Education #EdTech,3016,235,780,Positive,Education,online learning making education more accessible,4031
+217,Smart devices are getting more powerful,2026-05-27 11:00:00,#Technology #Tech,4600,1273,628,Positive,Technology,smart devices getting more powerful,6501
+218,Protecting the environment is everyone's responsibility,2026-07-27 20:00:00,#Environment #ClimateChange,2195,59,184,Negative,Environment,protecting environment everyones responsibility,2438
+219,Smart devices are getting more powerful,2026-04-26 23:00:00,#Technology #Tech,2880,12,185,Neutral,Technology,smart devices getting more powerful,3077
+220,Digital classrooms are becoming popular,2026-01-24 18:00:00,#Education #EdTech,1167,1296,31,Negative,Education,digital classrooms becoming popular,2494
+221,Everyone is talking about generative AI,2026-05-09 09:00:00,#AI #ArtificialIntelligence,3444,929,349,Positive,Artificial Intelligence,everyone talking about generative ai,4722
+222,Students are using technology for better learning,2026-04-21 17:00:00,#Education #EdTech,4654,1221,86,Positive,Education,students using technology better learning,5961
+223,AI is transforming the way we learn and work,2026-07-30 21:00:00,#AI #ArtificialIntelligence,412,1380,83,Positive,Artificial Intelligence,ai transforming way learn work,1875
+224,The latest tech trends are everywhere,2026-06-15 18:00:00,#Technology #Tech,4978,905,424,Negative,Technology,latest tech trends everywhere,6307
+225,New technology is changing our daily lives,2026-02-08 20:00:00,#Technology #Tech,2832,880,113,Neutral,Technology,new technology changing daily lives,3825
+226,Smart devices are getting more powerful,2026-06-16 02:00:00,#Technology #Tech,4321,1366,315,Negative,Technology,smart devices getting more powerful,6002
+227,AI is transforming the way we learn and work,2026-07-24 13:00:00,#AI #ArtificialIntelligence,453,15,209,Positive,Artificial Intelligence,ai transforming way learn work,677
+228,New technology is changing our daily lives,2026-03-29 05:00:00,#Technology #Tech,2376,671,122,Neutral,Technology,new technology changing daily lives,3169
+229,The future of AI looks exciting,2026-03-01 23:00:00,#AI #ArtificialIntelligence,1063,778,545,Negative,Artificial Intelligence,future ai looks exciting,2386
+230,People are discussing climate change,2026-08-17 00:00:00,#Environment #ClimateChange,2906,147,406,Positive,Environment,people discussing climate change,3459
+231,People are discussing climate change,2026-06-06 22:00:00,#Environment #ClimateChange,642,641,589,Positive,Environment,people discussing climate change,1872
+232,That was an incredible performance,2026-08-07 12:00:00,#Sports #Trending,3426,592,117,Positive,Sports,incredible performance,4135
+233,What an exciting match today,2026-02-28 15:00:00,#Sports #Trending,3774,1412,370,Neutral,Sports,what exciting match today,5556
+234,The future of AI looks exciting,2026-03-25 01:00:00,#AI #ArtificialIntelligence,3574,1206,410,Neutral,Artificial Intelligence,future ai looks exciting,5190
+235,This new movie is trending everywhere,2026-04-16 21:00:00,#Entertainment #Movies,2786,453,341,Positive,Entertainment,new movie trending everywhere,3580
+236,Online learning is making education more accessible,2026-02-08 22:00:00,#Education #EdTech,4351,1044,198,Positive,Education,online learning making education more accessible,5593
+237,The latest tech trends are everywhere,2026-08-09 07:00:00,#Technology #Tech,1214,483,105,Negative,Technology,latest tech trends everywhere,1802
+238,Students are using technology for better learning,2026-07-25 14:00:00,#Education #EdTech,1257,1342,77,Positive,Education,students using technology better learning,2676
+239,Digital classrooms are becoming popular,2026-07-12 10:00:00,#Education #EdTech,4752,919,697,Positive,Education,digital classrooms becoming popular,6368
+240,What a fantastic entertainment release,2026-08-02 04:00:00,#Entertainment #Movies,2652,1284,323,Negative,Entertainment,what fantastic entertainment release,4259
+241,Students are using technology for better learning,2026-05-31 22:00:00,#Education #EdTech,2485,562,605,Positive,Education,students using technology better learning,3652
+242,The future of AI looks exciting,2026-04-16 22:00:00,#AI #ArtificialIntelligence,3787,925,38,Positive,Artificial Intelligence,future ai looks exciting,4750
+243,The future of AI looks exciting,2026-01-27 04:00:00,#AI #ArtificialIntelligence,744,1259,608,Neutral,Artificial Intelligence,future ai looks exciting,2611
+244,The latest series has everyone talking,2026-07-09 04:00:00,#Entertainment #Movies,341,921,585,Positive,Entertainment,latest series everyone talking,1847
+245,People are discussing climate change,2026-06-12 08:00:00,#Environment #ClimateChange,4112,308,63,Positive,Environment,people discussing climate change,4483
+246,What an exciting match today,2026-04-28 05:00:00,#Sports #Trending,695,1033,661,Neutral,Sports,what exciting match today,2389
+247,Online learning is making education more accessible,2026-05-30 10:00:00,#Education #EdTech,3604,1073,535,Positive,Education,online learning making education more accessible,5212
+248,This new movie is trending everywhere,2026-04-07 13:00:00,#Entertainment #Movies,3178,837,793,Positive,Entertainment,new movie trending everywhere,4808
+249,Smart devices are getting more powerful,2026-08-04 08:00:00,#Technology #Tech,2746,134,337,Negative,Technology,smart devices getting more powerful,3217
+250,Everyone is talking about generative AI,2026-04-07 23:00:00,#AI #ArtificialIntelligence,2069,1482,672,Negative,Artificial Intelligence,everyone talking about generative ai,4223
+251,This new movie is trending everywhere,2026-07-18 21:00:00,#Entertainment #Movies,1163,716,317,Positive,Entertainment,new movie trending everywhere,2196
+252,Protecting the environment is everyone's responsibility,2026-02-14 00:00:00,#Environment #ClimateChange,4879,1451,86,Negative,Environment,protecting environment everyones responsibility,6416
+253,Smart devices are getting more powerful,2026-04-23 02:00:00,#Technology #Tech,1051,1372,719,Positive,Technology,smart devices getting more powerful,3142
+254,Protecting the environment is everyone's responsibility,2026-02-01 21:00:00,#Environment #ClimateChange,3473,1041,370,Neutral,Environment,protecting environment everyones responsibility,4884
+255,The future of AI looks exciting,2026-03-15 02:00:00,#AI #ArtificialIntelligence,2804,995,196,Positive,Artificial Intelligence,future ai looks exciting,3995
+256,Online learning is making education more accessible,2026-04-11 23:00:00,#Education #EdTech,833,1039,789,Positive,Education,online learning making education more accessible,2661
+257,What a fantastic entertainment release,2026-01-13 21:00:00,#Entertainment #Movies,2763,1265,134,Neutral,Entertainment,what fantastic entertainment release,4162
+258,The latest series has everyone talking,2026-03-03 17:00:00,#Entertainment #Movies,1361,1476,448,Positive,Entertainment,latest series everyone talking,3285
+259,The future of AI looks exciting,2026-03-23 01:00:00,#AI #ArtificialIntelligence,3643,1250,291,Positive,Artificial Intelligence,future ai looks exciting,5184
+260,Sustainable living is becoming a major trend,2026-03-23 15:00:00,#Environment #ClimateChange,2540,960,198,Positive,Environment,sustainable living becoming major trend,3698
+261,Smart devices are getting more powerful,2026-05-31 09:00:00,#Technology #Tech,3787,577,796,Neutral,Technology,smart devices getting more powerful,5160
+262,That was an incredible performance,2026-02-25 07:00:00,#Sports #Trending,1640,1238,141,Positive,Sports,incredible performance,3019
+263,New technology is changing our daily lives,2026-05-07 16:00:00,#Technology #Tech,4547,210,728,Negative,Technology,new technology changing daily lives,5485
+264,This new movie is trending everywhere,2026-02-24 17:00:00,#Entertainment #Movies,2239,920,525,Positive,Entertainment,new movie trending everywhere,3684
+265,Students are using technology for better learning,2026-03-17 18:00:00,#Education #EdTech,3700,715,27,Positive,Education,students using technology better learning,4442
+266,What an exciting match today,2026-05-08 15:00:00,#Sports #Trending,1936,790,83,Positive,Sports,what exciting match today,2809
+267,New technology is changing our daily lives,2026-02-03 19:00:00,#Technology #Tech,2751,299,140,Positive,Technology,new technology changing daily lives,3190
+268,The future of AI looks exciting,2026-06-11 06:00:00,#AI #ArtificialIntelligence,1141,1444,480,Neutral,Artificial Intelligence,future ai looks exciting,3065
+269,That was an incredible performance,2026-01-28 01:00:00,#Sports #Trending,160,524,220,Positive,Sports,incredible performance,904
+270,Digital classrooms are becoming popular,2026-07-27 19:00:00,#Education #EdTech,4328,866,113,Neutral,Education,digital classrooms becoming popular,5307
+271,New technology is changing our daily lives,2026-01-17 07:00:00,#Technology #Tech,1958,859,654,Positive,Technology,new technology changing daily lives,3471
+272,The latest series has everyone talking,2026-06-20 14:00:00,#Entertainment #Movies,4893,1097,16,Positive,Entertainment,latest series everyone talking,6006
+273,Protecting the environment is everyone's responsibility,2026-02-19 00:00:00,#Environment #ClimateChange,2391,879,1,Negative,Environment,protecting environment everyones responsibility,3271
+274,The latest series has everyone talking,2026-05-23 04:00:00,#Entertainment #Movies,1539,1360,684,Positive,Entertainment,latest series everyone talking,3583
+275,Everyone is talking about generative AI,2026-01-24 02:00:00,#AI #ArtificialIntelligence,4314,1114,519,Neutral,Artificial Intelligence,everyone talking about generative ai,5947
+276,What a fantastic entertainment release,2026-06-10 11:00:00,#Entertainment #Movies,361,1301,396,Positive,Entertainment,what fantastic entertainment release,2058
+277,The latest tech trends are everywhere,2026-05-02 21:00:00,#Technology #Tech,558,706,246,Negative,Technology,latest tech trends everywhere,1510
+278,Protecting the environment is everyone's responsibility,2026-07-18 14:00:00,#Environment #ClimateChange,2728,273,45,Negative,Environment,protecting environment everyones responsibility,3046
+279,Smart devices are getting more powerful,2026-08-08 09:00:00,#Technology #Tech,1439,1402,475,Positive,Technology,smart devices getting more powerful,3316
+280,Sustainable living is becoming a major trend,2026-02-16 00:00:00,#Environment #ClimateChange,521,1466,794,Negative,Environment,sustainable living becoming major trend,2781
+281,What an exciting match today,2026-01-15 22:00:00,#Sports #Trending,1639,85,323,Positive,Sports,what exciting match today,2047
+282,Smart devices are getting more powerful,2026-07-05 08:00:00,#Technology #Tech,3883,518,37,Positive,Technology,smart devices getting more powerful,4438
+283,People are discussing climate change,2026-01-17 07:00:00,#Environment #ClimateChange,2724,559,127,Positive,Environment,people discussing climate change,3410
+284,The latest tech trends are everywhere,2026-05-31 02:00:00,#Technology #Tech,3172,694,191,Neutral,Technology,latest tech trends everywhere,4057
+285,That was an incredible performance,2026-06-27 05:00:00,#Sports #Trending,2189,169,744,Positive,Sports,incredible performance,3102
+286,What an exciting match today,2026-03-03 14:00:00,#Sports #Trending,4473,601,328,Positive,Sports,what exciting match today,5402
+287,AI is transforming the way we learn and work,2026-04-11 21:00:00,#AI #ArtificialIntelligence,2515,913,617,Positive,Artificial Intelligence,ai transforming way learn work,4045
+288,Sustainable living is becoming a major trend,2026-06-01 12:00:00,#Environment #ClimateChange,2884,915,43,Positive,Environment,sustainable living becoming major trend,3842
+289,Sustainable living is becoming a major trend,2026-05-29 11:00:00,#Environment #ClimateChange,2254,1309,58,Negative,Environment,sustainable living becoming major trend,3621
+290,Everyone is talking about generative AI,2026-05-05 00:00:00,#AI #ArtificialIntelligence,4208,1391,163,Negative,Artificial Intelligence,everyone talking about generative ai,5762
+291,AI is transforming the way we learn and work,2026-08-20 10:00:00,#AI #ArtificialIntelligence,3594,71,129,Neutral,Artificial Intelligence,ai transforming way learn work,3794
+292,AI is transforming the way we learn and work,2026-05-06 00:00:00,#AI #ArtificialIntelligence,2971,784,580,Neutral,Artificial Intelligence,ai transforming way learn work,4335
+293,Everyone is talking about generative AI,2026-06-03 13:00:00,#AI #ArtificialIntelligence,3043,761,454,Positive,Artificial Intelligence,everyone talking about generative ai,4258
+294,Everyone is talking about generative AI,2026-05-06 06:00:00,#AI #ArtificialIntelligence,3265,643,665,Positive,Artificial Intelligence,everyone talking about generative ai,4573
+295,New technology is changing our daily lives,2026-01-09 20:00:00,#Technology #Tech,1529,1022,530,Neutral,Technology,new technology changing daily lives,3081
+296,That was an incredible performance,2026-03-30 20:00:00,#Sports #Trending,3660,439,626,Positive,Sports,incredible performance,4725
+297,Smart devices are getting more powerful,2026-06-17 15:00:00,#Technology #Tech,1644,251,138,Neutral,Technology,smart devices getting more powerful,2033
+298,The future of AI looks exciting,2026-06-01 22:00:00,#AI #ArtificialIntelligence,724,1396,327,Positive,Artificial Intelligence,future ai looks exciting,2447
+299,Sustainable living is becoming a major trend,2026-07-07 17:00:00,#Environment #ClimateChange,4446,594,307,Negative,Environment,sustainable living becoming major trend,5347
+300,Digital classrooms are becoming popular,2026-08-28 00:00:00,#Education #EdTech,1431,740,520,Negative,Education,digital classrooms becoming popular,2691
+301,Online learning is making education more accessible,2026-02-17 09:00:00,#Education #EdTech,1944,1011,26,Neutral,Education,online learning making education more accessible,2981
+302,Smart devices are getting more powerful,2026-06-09 12:00:00,#Technology #Tech,4524,265,626,Negative,Technology,smart devices getting more powerful,5415
+303,AI is transforming the way we learn and work,2026-06-13 09:00:00,#AI #ArtificialIntelligence,4311,841,787,Positive,Artificial Intelligence,ai transforming way learn work,5939
+304,That was an incredible performance,2026-04-19 05:00:00,#Sports #Trending,612,921,477,Positive,Sports,incredible performance,2010
+305,Protecting the environment is everyone's responsibility,2026-07-08 04:00:00,#Environment #ClimateChange,4820,372,786,Positive,Environment,protecting environment everyones responsibility,5978
+306,Students are using technology for better learning,2026-01-19 21:00:00,#Education #EdTech,1022,1061,156,Positive,Education,students using technology better learning,2239
+307,New technology is changing our daily lives,2026-03-18 23:00:00,#Technology #Tech,2839,1062,290,Positive,Technology,new technology changing daily lives,4191
+308,The future of AI looks exciting,2026-07-08 00:00:00,#AI #ArtificialIntelligence,2253,256,640,Positive,Artificial Intelligence,future ai looks exciting,3149
+309,Smart devices are getting more powerful,2026-06-21 13:00:00,#Technology #Tech,1386,1212,594,Positive,Technology,smart devices getting more powerful,3192
+310,Online learning is making education more accessible,2026-07-26 13:00:00,#Education #EdTech,2770,1154,42,Negative,Education,online learning making education more accessible,3966
+311,AI is transforming the way we learn and work,2026-08-07 22:00:00,#AI #ArtificialIntelligence,4729,542,666,Positive,Artificial Intelligence,ai transforming way learn work,5937
+312,Digital classrooms are becoming popular,2026-08-07 02:00:00,#Education #EdTech,253,1019,642,Positive,Education,digital classrooms becoming popular,1914
+313,The latest series has everyone talking,2026-04-14 02:00:00,#Entertainment #Movies,3961,501,701,Negative,Entertainment,latest series everyone talking,5163
+314,Fans are loving this season,2026-08-24 01:00:00,#Sports #Trending,495,323,450,Positive,Sports,fans loving season,1268
+315,Fans are loving this season,2026-04-27 02:00:00,#Sports #Trending,4974,294,320,Positive,Sports,fans loving season,5588
+316,Sustainable living is becoming a major trend,2026-04-28 21:00:00,#Environment #ClimateChange,3271,267,778,Negative,Environment,sustainable living becoming major trend,4316
+317,Smart devices are getting more powerful,2026-04-19 22:00:00,#Technology #Tech,1985,955,125,Negative,Technology,smart devices getting more powerful,3065
+318,The latest tech trends are everywhere,2026-02-03 01:00:00,#Technology #Tech,419,594,393,Positive,Technology,latest tech trends everywhere,1406
+319,The latest series has everyone talking,2026-02-24 12:00:00,#Entertainment #Movies,2687,1183,738,Positive,Entertainment,latest series everyone talking,4608
+320,New technology is changing our daily lives,2026-06-20 01:00:00,#Technology #Tech,4221,956,510,Neutral,Technology,new technology changing daily lives,5687
+321,The latest tech trends are everywhere,2026-05-15 05:00:00,#Technology #Tech,4145,936,246,Positive,Technology,latest tech trends everywhere,5327
+322,Digital classrooms are becoming popular,2026-01-18 06:00:00,#Education #EdTech,2309,1013,611,Positive,Education,digital classrooms becoming popular,3933
+323,Protecting the environment is everyone's responsibility,2026-07-03 04:00:00,#Environment #ClimateChange,71,220,441,Positive,Environment,protecting environment everyones responsibility,732
+324,Students are using technology for better learning,2026-05-18 15:00:00,#Education #EdTech,3002,92,410,Negative,Education,students using technology better learning,3504
+325,Everyone is talking about generative AI,2026-05-04 17:00:00,#AI #ArtificialIntelligence,4537,591,75,Negative,Artificial Intelligence,everyone talking about generative ai,5203
+326,That was an incredible performance,2026-07-07 16:00:00,#Sports #Trending,2296,1276,696,Positive,Sports,incredible performance,4268
+327,This new movie is trending everywhere,2026-02-03 00:00:00,#Entertainment #Movies,3231,764,347,Positive,Entertainment,new movie trending everywhere,4342
+328,The latest series has everyone talking,2026-03-09 22:00:00,#Entertainment #Movies,4940,1042,411,Neutral,Entertainment,latest series everyone talking,6393
+329,This new movie is trending everywhere,2026-02-16 18:00:00,#Entertainment #Movies,2733,970,531,Positive,Entertainment,new movie trending everywhere,4234
+330,What an exciting match today,2026-06-25 23:00:00,#Sports #Trending,1150,671,627,Negative,Sports,what exciting match today,2448
+331,New technology is changing our daily lives,2026-07-30 10:00:00,#Technology #Tech,2456,1215,344,Positive,Technology,new technology changing daily lives,4015
+332,What a fantastic entertainment release,2026-07-12 03:00:00,#Entertainment #Movies,2460,972,17,Positive,Entertainment,what fantastic entertainment release,3449
+333,The latest tech trends are everywhere,2026-05-23 04:00:00,#Technology #Tech,4786,630,742,Negative,Technology,latest tech trends everywhere,6158
+334,Protecting the environment is everyone's responsibility,2026-06-11 23:00:00,#Environment #ClimateChange,2180,1342,794,Positive,Environment,protecting environment everyones responsibility,4316
+335,What a fantastic entertainment release,2026-01-18 12:00:00,#Entertainment #Movies,4785,983,174,Positive,Entertainment,what fantastic entertainment release,5942
+336,What a fantastic entertainment release,2026-05-10 18:00:00,#Entertainment #Movies,1215,1394,248,Negative,Entertainment,what fantastic entertainment release,2857
+337,Everyone is talking about generative AI,2026-02-07 12:00:00,#AI #ArtificialIntelligence,1567,38,451,Neutral,Artificial Intelligence,everyone talking about generative ai,2056
+338,The latest tech trends are everywhere,2026-08-24 16:00:00,#Technology #Tech,1675,840,513,Positive,Technology,latest tech trends everywhere,3028
+339,The latest series has everyone talking,2026-01-22 06:00:00,#Entertainment #Movies,1136,1062,212,Neutral,Entertainment,latest series everyone talking,2410
+340,The latest series has everyone talking,2026-06-13 06:00:00,#Entertainment #Movies,4309,771,321,Neutral,Entertainment,latest series everyone talking,5401
+341,Students are using technology for better learning,2026-04-27 20:00:00,#Education #EdTech,4480,725,692,Neutral,Education,students using technology better learning,5897
+342,Protecting the environment is everyone's responsibility,2026-08-25 15:00:00,#Environment #ClimateChange,2170,1249,495,Negative,Environment,protecting environment everyones responsibility,3914
+343,Online learning is making education more accessible,2026-04-12 21:00:00,#Education #EdTech,1847,609,789,Positive,Education,online learning making education more accessible,3245
+344,Smart devices are getting more powerful,2026-06-16 21:00:00,#Technology #Tech,2602,982,357,Positive,Technology,smart devices getting more powerful,3941
+345,What a fantastic entertainment release,2026-02-11 14:00:00,#Entertainment #Movies,4702,1385,556,Positive,Entertainment,what fantastic entertainment release,6643
+346,Fans are loving this season,2026-02-19 23:00:00,#Sports #Trending,2384,86,294,Neutral,Sports,fans loving season,2764
+347,People are discussing climate change,2026-05-31 23:00:00,#Environment #ClimateChange,2105,981,219,Positive,Environment,people discussing climate change,3305
+348,Digital classrooms are becoming popular,2026-07-11 20:00:00,#Education #EdTech,2230,281,111,Positive,Education,digital classrooms becoming popular,2622
+349,What a fantastic entertainment release,2026-03-24 18:00:00,#Entertainment #Movies,420,1371,543,Negative,Entertainment,what fantastic entertainment release,2334
+350,Digital classrooms are becoming popular,2026-02-04 04:00:00,#Education #EdTech,3390,676,734,Positive,Education,digital classrooms becoming popular,4800
+351,What an exciting match today,2026-02-16 22:00:00,#Sports #Trending,47,1127,161,Negative,Sports,what exciting match today,1335
+352,That was an incredible performance,2026-06-12 08:00:00,#Sports #Trending,3916,1332,204,Neutral,Sports,incredible performance,5452
+353,The latest tech trends are everywhere,2026-01-21 04:00:00,#Technology #Tech,737,1335,587,Positive,Technology,latest tech trends everywhere,2659
+354,Digital classrooms are becoming popular,2026-01-13 17:00:00,#Education #EdTech,1439,855,180,Negative,Education,digital classrooms becoming popular,2474
+355,The future of AI looks exciting,2026-03-05 14:00:00,#AI #ArtificialIntelligence,2376,76,9,Neutral,Artificial Intelligence,future ai looks exciting,2461
+356,Smart devices are getting more powerful,2026-04-25 08:00:00,#Technology #Tech,2336,930,656,Negative,Technology,smart devices getting more powerful,3922
+357,What a fantastic entertainment release,2026-02-15 19:00:00,#Entertainment #Movies,4135,958,279,Positive,Entertainment,what fantastic entertainment release,5372
+358,Online learning is making education more accessible,2026-06-06 15:00:00,#Education #EdTech,2112,1471,190,Positive,Education,online learning making education more accessible,3773
+359,Everyone is talking about generative AI,2026-04-11 16:00:00,#AI #ArtificialIntelligence,4656,1381,775,Positive,Artificial Intelligence,everyone talking about generative ai,6812
+360,Online learning is making education more accessible,2026-08-07 00:00:00,#Education #EdTech,3326,875,527,Negative,Education,online learning making education more accessible,4728
+361,New technology is changing our daily lives,2026-02-02 13:00:00,#Technology #Tech,1518,287,488,Positive,Technology,new technology changing daily lives,2293
+362,New technology is changing our daily lives,2026-05-11 22:00:00,#Technology #Tech,1934,914,771,Positive,Technology,new technology changing daily lives,3619
+363,The latest tech trends are everywhere,2026-07-15 13:00:00,#Technology #Tech,98,535,669,Positive,Technology,latest tech trends everywhere,1302
+364,Smart devices are getting more powerful,2026-08-16 22:00:00,#Technology #Tech,973,953,314,Positive,Technology,smart devices getting more powerful,2240
+365,Students are using technology for better learning,2026-04-17 03:00:00,#Education #EdTech,966,1308,302,Negative,Education,students using technology better learning,2576
+366,Smart devices are getting more powerful,2026-02-15 14:00:00,#Technology #Tech,3922,313,465,Positive,Technology,smart devices getting more powerful,4700
+367,Protecting the environment is everyone's responsibility,2026-08-28 14:00:00,#Environment #ClimateChange,4504,964,775,Positive,Environment,protecting environment everyones responsibility,6243
+368,What a fantastic entertainment release,2026-03-26 11:00:00,#Entertainment #Movies,4885,167,538,Neutral,Entertainment,what fantastic entertainment release,5590
+369,That was an incredible performance,2026-01-27 15:00:00,#Sports #Trending,4626,229,63,Negative,Sports,incredible performance,4918
+370,What a fantastic entertainment release,2026-07-03 04:00:00,#Entertainment #Movies,1232,336,335,Positive,Entertainment,what fantastic entertainment release,1903
+371,The latest series has everyone talking,2026-03-12 02:00:00,#Entertainment #Movies,4782,1001,93,Positive,Entertainment,latest series everyone talking,5876
+372,The latest series has everyone talking,2026-06-04 18:00:00,#Entertainment #Movies,1085,1051,425,Neutral,Entertainment,latest series everyone talking,2561
+373,That was an incredible performance,2026-06-07 19:00:00,#Sports #Trending,2529,1481,22,Positive,Sports,incredible performance,4032
+374,Fans are loving this season,2026-03-16 09:00:00,#Sports #Trending,4742,149,46,Neutral,Sports,fans loving season,4937
+375,Fans are loving this season,2026-07-04 17:00:00,#Sports #Trending,498,141,483,Negative,Sports,fans loving season,1122
+376,The future of AI looks exciting,2026-02-16 05:00:00,#AI #ArtificialIntelligence,3448,766,391,Positive,Artificial Intelligence,future ai looks exciting,4605
+377,Fans are loving this season,2026-08-22 00:00:00,#Sports #Trending,4422,272,669,Positive,Sports,fans loving season,5363
+378,New technology is changing our daily lives,2026-07-03 09:00:00,#Technology #Tech,3224,1083,130,Positive,Technology,new technology changing daily lives,4437
+379,People are discussing climate change,2026-01-08 18:00:00,#Environment #ClimateChange,2449,948,689,Neutral,Environment,people discussing climate change,4086
+380,Protecting the environment is everyone's responsibility,2026-05-10 11:00:00,#Environment #ClimateChange,1886,506,471,Positive,Environment,protecting environment everyones responsibility,2863
+381,New technology is changing our daily lives,2026-02-08 12:00:00,#Technology #Tech,268,1352,429,Positive,Technology,new technology changing daily lives,2049
+382,This new movie is trending everywhere,2026-01-23 23:00:00,#Entertainment #Movies,831,1216,34,Positive,Entertainment,new movie trending everywhere,2081
+383,That was an incredible performance,2026-01-17 14:00:00,#Sports #Trending,2009,90,411,Negative,Sports,incredible performance,2510
+384,What an exciting match today,2026-01-20 06:00:00,#Sports #Trending,1152,1031,296,Positive,Sports,what exciting match today,2479
+385,Digital classrooms are becoming popular,2026-07-17 02:00:00,#Education #EdTech,4903,1377,328,Negative,Education,digital classrooms becoming popular,6608
+386,Students are using technology for better learning,2026-08-14 08:00:00,#Education #EdTech,4275,452,423,Neutral,Education,students using technology better learning,5150
+387,The latest tech trends are everywhere,2026-07-21 22:00:00,#Technology #Tech,1439,1282,695,Positive,Technology,latest tech trends everywhere,3416
+388,That was an incredible performance,2026-04-28 13:00:00,#Sports #Trending,3127,1074,326,Positive,Sports,incredible performance,4527
+389,Sustainable living is becoming a major trend,2026-04-13 08:00:00,#Environment #ClimateChange,3088,376,772,Positive,Environment,sustainable living becoming major trend,4236
+390,The latest series has everyone talking,2026-03-18 22:00:00,#Entertainment #Movies,2468,1449,147,Positive,Entertainment,latest series everyone talking,4064
+391,What an exciting match today,2026-05-23 04:00:00,#Sports #Trending,4570,1085,137,Negative,Sports,what exciting match today,5792
+392,What an exciting match today,2026-04-23 17:00:00,#Sports #Trending,652,921,379,Positive,Sports,what exciting match today,1952
+393,Everyone is talking about generative AI,2026-03-07 00:00:00,#AI #ArtificialIntelligence,427,549,386,Negative,Artificial Intelligence,everyone talking about generative ai,1362
+394,Protecting the environment is everyone's responsibility,2026-01-25 20:00:00,#Environment #ClimateChange,1546,1203,741,Negative,Environment,protecting environment everyones responsibility,3490
+395,Protecting the environment is everyone's responsibility,2026-03-13 07:00:00,#Environment #ClimateChange,2732,620,15,Positive,Environment,protecting environment everyones responsibility,3367
+396,Online learning is making education more accessible,2026-02-10 01:00:00,#Education #EdTech,3928,496,712,Neutral,Education,online learning making education more accessible,5136
+397,What a fantastic entertainment release,2026-03-23 16:00:00,#Entertainment #Movies,4527,658,794,Positive,Entertainment,what fantastic entertainment release,5979
+398,The latest tech trends are everywhere,2026-08-10 10:00:00,#Technology #Tech,2948,631,267,Positive,Technology,latest tech trends everywhere,3846
+399,Smart devices are getting more powerful,2026-06-09 01:00:00,#Technology #Tech,812,1479,480,Neutral,Technology,smart devices getting more powerful,2771
+400,New technology is changing our daily lives,2026-05-22 06:00:00,#Technology #Tech,379,1152,226,Positive,Technology,new technology changing daily lives,1757
+401,People are discussing climate change,2026-07-08 20:00:00,#Environment #ClimateChange,4789,1186,737,Positive,Environment,people discussing climate change,6712
+402,Fans are loving this season,2026-04-23 14:00:00,#Sports #Trending,1889,777,583,Positive,Sports,fans loving season,3249
+403,Students are using technology for better learning,2026-08-22 18:00:00,#Education #EdTech,2770,527,781,Negative,Education,students using technology better learning,4078
+404,That was an incredible performance,2026-06-17 10:00:00,#Sports #Trending,3780,344,750,Negative,Sports,incredible performance,4874
+405,New technology is changing our daily lives,2026-07-06 13:00:00,#Technology #Tech,4005,376,555,Positive,Technology,new technology changing daily lives,4936
+406,People are discussing climate change,2026-01-26 08:00:00,#Environment #ClimateChange,402,13,422,Positive,Environment,people discussing climate change,837
+407,Digital classrooms are becoming popular,2026-02-21 13:00:00,#Education #EdTech,79,447,517,Positive,Education,digital classrooms becoming popular,1043
+408,Fans are loving this season,2026-08-06 16:00:00,#Sports #Trending,3963,1350,499,Positive,Sports,fans loving season,5812
+409,AI is transforming the way we learn and work,2026-05-21 09:00:00,#AI #ArtificialIntelligence,102,34,542,Positive,Artificial Intelligence,ai transforming way learn work,678
+410,Sustainable living is becoming a major trend,2026-04-08 20:00:00,#Environment #ClimateChange,145,1028,714,Positive,Environment,sustainable living becoming major trend,1887
+411,Sustainable living is becoming a major trend,2026-03-03 04:00:00,#Environment #ClimateChange,881,197,536,Neutral,Environment,sustainable living becoming major trend,1614
+412,Online learning is making education more accessible,2026-06-29 16:00:00,#Education #EdTech,2072,725,273,Positive,Education,online learning making education more accessible,3070
+413,What an exciting match today,2026-05-19 14:00:00,#Sports #Trending,3765,1157,249,Positive,Sports,what exciting match today,5171
+414,People are discussing climate change,2026-01-28 12:00:00,#Environment #ClimateChange,264,191,415,Positive,Environment,people discussing climate change,870
+415,Fans are loving this season,2026-01-20 03:00:00,#Sports #Trending,82,1439,175,Negative,Sports,fans loving season,1696
+416,The future of AI looks exciting,2026-08-09 03:00:00,#AI #ArtificialIntelligence,2718,1158,97,Neutral,Artificial Intelligence,future ai looks exciting,3973
+417,This new movie is trending everywhere,2026-08-25 07:00:00,#Entertainment #Movies,4648,973,277,Positive,Entertainment,new movie trending everywhere,5898
+418,AI is transforming the way we learn and work,2026-04-06 16:00:00,#AI #ArtificialIntelligence,4453,1154,673,Negative,Artificial Intelligence,ai transforming way learn work,6280
+419,AI is transforming the way we learn and work,2026-04-18 08:00:00,#AI #ArtificialIntelligence,133,424,601,Neutral,Artificial Intelligence,ai transforming way learn work,1158
+420,Digital classrooms are becoming popular,2026-01-27 06:00:00,#Education #EdTech,2456,332,577,Neutral,Education,digital classrooms becoming popular,3365
+421,Digital classrooms are becoming popular,2026-05-13 19:00:00,#Education #EdTech,4433,679,393,Neutral,Education,digital classrooms becoming popular,5505
+422,People are discussing climate change,2026-08-24 06:00:00,#Environment #ClimateChange,647,1025,763,Neutral,Environment,people discussing climate change,2435
+423,New technology is changing our daily lives,2026-03-21 05:00:00,#Technology #Tech,627,697,619,Positive,Technology,new technology changing daily lives,1943
+424,What a fantastic entertainment release,2026-04-22 09:00:00,#Entertainment #Movies,247,1298,279,Positive,Entertainment,what fantastic entertainment release,1824
+425,Fans are loving this season,2026-07-08 18:00:00,#Sports #Trending,3080,884,190,Positive,Sports,fans loving season,4154
+426,Protecting the environment is everyone's responsibility,2026-01-30 06:00:00,#Environment #ClimateChange,2424,504,730,Negative,Environment,protecting environment everyones responsibility,3658
+427,AI is transforming the way we learn and work,2026-05-10 16:00:00,#AI #ArtificialIntelligence,1268,797,324,Positive,Artificial Intelligence,ai transforming way learn work,2389
+428,New technology is changing our daily lives,2026-04-16 05:00:00,#Technology #Tech,3648,737,779,Positive,Technology,new technology changing daily lives,5164
+429,New technology is changing our daily lives,2026-03-05 23:00:00,#Technology #Tech,3535,919,570,Positive,Technology,new technology changing daily lives,5024
+430,What a fantastic entertainment release,2026-01-09 23:00:00,#Entertainment #Movies,739,724,567,Positive,Entertainment,what fantastic entertainment release,2030
+431,Everyone is talking about generative AI,2026-04-21 17:00:00,#AI #ArtificialIntelligence,3160,25,298,Negative,Artificial Intelligence,everyone talking about generative ai,3483
+432,Fans are loving this season,2026-07-10 23:00:00,#Sports #Trending,1993,1171,533,Neutral,Sports,fans loving season,3697
+433,Digital classrooms are becoming popular,2026-02-17 09:00:00,#Education #EdTech,2207,616,274,Positive,Education,digital classrooms becoming popular,3097
+434,What an exciting match today,2026-05-29 08:00:00,#Sports #Trending,2265,862,306,Positive,Sports,what exciting match today,3433
+435,What an exciting match today,2026-03-26 04:00:00,#Sports #Trending,4066,1216,631,Positive,Sports,what exciting match today,5913
+436,Students are using technology for better learning,2026-04-14 23:00:00,#Education #EdTech,60,810,340,Positive,Education,students using technology better learning,1210
+437,The latest series has everyone talking,2026-04-23 11:00:00,#Entertainment #Movies,3611,685,440,Neutral,Entertainment,latest series everyone talking,4736
+438,Protecting the environment is everyone's responsibility,2026-04-20 10:00:00,#Environment #ClimateChange,4946,1423,205,Positive,Environment,protecting environment everyones responsibility,6574
+439,Fans are loving this season,2026-05-16 22:00:00,#Sports #Trending,2619,596,752,Positive,Sports,fans loving season,3967
+440,Protecting the environment is everyone's responsibility,2026-07-16 13:00:00,#Environment #ClimateChange,1990,667,385,Positive,Environment,protecting environment everyones responsibility,3042
+441,The latest tech trends are everywhere,2026-07-12 11:00:00,#Technology #Tech,1641,1212,558,Positive,Technology,latest tech trends everywhere,3411
+442,Digital classrooms are becoming popular,2026-01-10 04:00:00,#Education #EdTech,3786,1450,214,Neutral,Education,digital classrooms becoming popular,5450
+443,Fans are loving this season,2026-01-24 14:00:00,#Sports #Trending,3356,1378,511,Neutral,Sports,fans loving season,5245
+444,Digital classrooms are becoming popular,2026-03-28 05:00:00,#Education #EdTech,1267,1464,433,Positive,Education,digital classrooms becoming popular,3164
+445,What an exciting match today,2026-07-24 02:00:00,#Sports #Trending,3930,1192,410,Positive,Sports,what exciting match today,5532
+446,What a fantastic entertainment release,2026-08-25 02:00:00,#Entertainment #Movies,3431,1113,37,Neutral,Entertainment,what fantastic entertainment release,4581
+447,Smart devices are getting more powerful,2026-07-03 06:00:00,#Technology #Tech,4869,1306,87,Neutral,Technology,smart devices getting more powerful,6262
+448,AI is transforming the way we learn and work,2026-05-02 04:00:00,#AI #ArtificialIntelligence,1367,1325,627,Negative,Artificial Intelligence,ai transforming way learn work,3319
+449,Everyone is talking about generative AI,2026-08-20 05:00:00,#AI #ArtificialIntelligence,3278,679,440,Neutral,Artificial Intelligence,everyone talking about generative ai,4397
+450,AI is transforming the way we learn and work,2026-03-17 18:00:00,#AI #ArtificialIntelligence,4188,1062,571,Positive,Artificial Intelligence,ai transforming way learn work,5821
+451,What a fantastic entertainment release,2026-06-02 03:00:00,#Entertainment #Movies,3069,801,474,Negative,Entertainment,what fantastic entertainment release,4344
+452,Protecting the environment is everyone's responsibility,2026-02-21 10:00:00,#Environment #ClimateChange,2830,50,494,Negative,Environment,protecting environment everyones responsibility,3374
+453,The future of AI looks exciting,2026-01-30 07:00:00,#AI #ArtificialIntelligence,955,1495,145,Positive,Artificial Intelligence,future ai looks exciting,2595
+454,The latest tech trends are everywhere,2026-03-12 14:00:00,#Technology #Tech,4273,989,356,Positive,Technology,latest tech trends everywhere,5618
+455,What an exciting match today,2026-08-26 19:00:00,#Sports #Trending,3711,653,68,Positive,Sports,what exciting match today,4432
+456,New technology is changing our daily lives,2026-02-09 06:00:00,#Technology #Tech,190,702,663,Neutral,Technology,new technology changing daily lives,1555
+457,Everyone is talking about generative AI,2026-03-25 06:00:00,#AI #ArtificialIntelligence,4232,357,565,Neutral,Artificial Intelligence,everyone talking about generative ai,5154
+458,Students are using technology for better learning,2026-06-07 17:00:00,#Education #EdTech,1904,829,644,Negative,Education,students using technology better learning,3377
+459,Online learning is making education more accessible,2026-05-28 12:00:00,#Education #EdTech,3245,59,755,Negative,Education,online learning making education more accessible,4059
+460,This new movie is trending everywhere,2026-05-27 14:00:00,#Entertainment #Movies,3190,9,721,Positive,Entertainment,new movie trending everywhere,3920
+461,Online learning is making education more accessible,2026-01-22 08:00:00,#Education #EdTech,4734,208,549,Positive,Education,online learning making education more accessible,5491
+462,Students are using technology for better learning,2026-06-06 04:00:00,#Education #EdTech,938,537,686,Positive,Education,students using technology better learning,2161
+463,That was an incredible performance,2026-04-17 23:00:00,#Sports #Trending,4895,795,625,Neutral,Sports,incredible performance,6315
+464,That was an incredible performance,2026-05-01 03:00:00,#Sports #Trending,3755,1264,176,Positive,Sports,incredible performance,5195
+465,Protecting the environment is everyone's responsibility,2026-07-29 17:00:00,#Environment #ClimateChange,4839,173,688,Neutral,Environment,protecting environment everyones responsibility,5700
+466,Students are using technology for better learning,2026-04-15 05:00:00,#Education #EdTech,963,374,382,Positive,Education,students using technology better learning,1719
+467,People are discussing climate change,2026-05-23 18:00:00,#Environment #ClimateChange,4890,282,588,Positive,Environment,people discussing climate change,5760
+468,Fans are loving this season,2026-08-05 22:00:00,#Sports #Trending,4407,1420,660,Positive,Sports,fans loving season,6487
+469,Digital classrooms are becoming popular,2026-04-09 14:00:00,#Education #EdTech,1154,383,322,Positive,Education,digital classrooms becoming popular,1859
+470,That was an incredible performance,2026-05-03 13:00:00,#Sports #Trending,83,992,139,Positive,Sports,incredible performance,1214
+471,Students are using technology for better learning,2026-06-22 12:00:00,#Education #EdTech,4059,837,701,Neutral,Education,students using technology better learning,5597
+472,Fans are loving this season,2026-06-01 12:00:00,#Sports #Trending,4008,342,84,Negative,Sports,fans loving season,4434
+473,This new movie is trending everywhere,2026-03-17 06:00:00,#Entertainment #Movies,2397,66,281,Neutral,Entertainment,new movie trending everywhere,2744
+474,Digital classrooms are becoming popular,2026-06-06 02:00:00,#Education #EdTech,4638,1014,562,Positive,Education,digital classrooms becoming popular,6214
+475,This new movie is trending everywhere,2026-04-02 10:00:00,#Entertainment #Movies,4454,751,555,Negative,Entertainment,new movie trending everywhere,5760
+476,Everyone is talking about generative AI,2026-03-16 14:00:00,#AI #ArtificialIntelligence,3487,209,753,Positive,Artificial Intelligence,everyone talking about generative ai,4449
+477,People are discussing climate change,2026-01-12 00:00:00,#Environment #ClimateChange,3689,538,356,Positive,Environment,people discussing climate change,4583
+478,The future of AI looks exciting,2026-02-10 01:00:00,#AI #ArtificialIntelligence,1946,429,755,Neutral,Artificial Intelligence,future ai looks exciting,3130
+479,What a fantastic entertainment release,2026-07-28 07:00:00,#Entertainment #Movies,3512,339,630,Positive,Entertainment,what fantastic entertainment release,4481
+480,Online learning is making education more accessible,2026-01-21 06:00:00,#Education #EdTech,4675,718,545,Neutral,Education,online learning making education more accessible,5938
+481,Smart devices are getting more powerful,2026-04-21 11:00:00,#Technology #Tech,2402,592,586,Positive,Technology,smart devices getting more powerful,3580
+482,Smart devices are getting more powerful,2026-08-20 20:00:00,#Technology #Tech,785,277,768,Neutral,Technology,smart devices getting more powerful,1830
+483,What an exciting match today,2026-08-12 21:00:00,#Sports #Trending,1044,1436,135,Neutral,Sports,what exciting match today,2615
+484,Online learning is making education more accessible,2026-03-26 11:00:00,#Education #EdTech,3222,1002,145,Negative,Education,online learning making education more accessible,4369
+485,What a fantastic entertainment release,2026-05-22 09:00:00,#Entertainment #Movies,3078,925,77,Positive,Entertainment,what fantastic entertainment release,4080
+486,People are discussing climate change,2026-04-05 23:00:00,#Environment #ClimateChange,3028,931,499,Positive,Environment,people discussing climate change,4458
+487,Smart devices are getting more powerful,2026-02-01 19:00:00,#Technology #Tech,3760,1300,680,Positive,Technology,smart devices getting more powerful,5740
+488,Sustainable living is becoming a major trend,2026-07-02 10:00:00,#Environment #ClimateChange,3263,446,439,Neutral,Environment,sustainable living becoming major trend,4148
+489,Students are using technology for better learning,2026-04-07 19:00:00,#Education #EdTech,2771,1120,591,Positive,Education,students using technology better learning,4482
+490,Digital classrooms are becoming popular,2026-04-28 07:00:00,#Education #EdTech,401,94,101,Neutral,Education,digital classrooms becoming popular,596
+491,Sustainable living is becoming a major trend,2026-02-23 22:00:00,#Environment #ClimateChange,3620,934,0,Positive,Environment,sustainable living becoming major trend,4554
+492,What an exciting match today,2026-02-15 00:00:00,#Sports #Trending,2477,325,280,Neutral,Sports,what exciting match today,3082
+493,Everyone is talking about generative AI,2026-01-29 03:00:00,#AI #ArtificialIntelligence,3051,1360,664,Positive,Artificial Intelligence,everyone talking about generative ai,5075
+494,Online learning is making education more accessible,2026-04-15 06:00:00,#Education #EdTech,1923,879,671,Positive,Education,online learning making education more accessible,3473
+495,Everyone is talking about generative AI,2026-03-14 20:00:00,#AI #ArtificialIntelligence,3911,159,135,Positive,Artificial Intelligence,everyone talking about generative ai,4205
+496,This new movie is trending everywhere,2026-06-01 21:00:00,#Entertainment #Movies,81,16,712,Positive,Entertainment,new movie trending everywhere,809
+497,New technology is changing our daily lives,2026-05-25 03:00:00,#Technology #Tech,1087,978,72,Neutral,Technology,new technology changing daily lives,2137
+498,Students are using technology for better learning,2026-02-04 23:00:00,#Education #EdTech,850,641,376,Positive,Education,students using technology better learning,1867
+499,New technology is changing our daily lives,2026-02-15 10:00:00,#Technology #Tech,1175,140,543,Positive,Technology,new technology changing daily lives,1858
+500,This new movie is trending everywhere,2026-02-26 00:00:00,#Entertainment #Movies,3610,719,739,Negative,Entertainment,new movie trending everywhere,5068
